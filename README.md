@@ -35,7 +35,7 @@ If you use this project for academic work, please consider citing our
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
-> ph-energy-matching
+> energy-matching
 
 To (locally) reproduce this project, do the following:
 
@@ -55,7 +55,7 @@ everything should work out of the box, including correctly finding local paths.
 You may notice that most scripts start with the commands:
 ```julia
 using DrWatson
-@quickactivate "ph-energy-matching"
+@quickactivate "energy-matching"
 ```
 which auto-activate the project and enable local path handling from DrWatson.
 
@@ -78,14 +78,14 @@ Tobias Holicki - tobias.holicki@imng.uni-stuttgart.de\
 Paul Schwerdtner - paul.schwerdtner@nyu.edu\
 Benjamin Unger - benjamin.unger@simtech.uni-stuttgart.de
 
-Project Link: [https://github.com/Jonas-Nicodemus/ph-energy-matching][project-url]
+Project Link: [https://github.com/Jonas-Nicodemus/energy-matching][project-url]
 
 [doi-shield]: https://img.shields.io/badge/DOI-10.5281%20%2F%20zenodo.8335231-blue.svg?style=for-the-badge
 [doi-url]: https://doi.org/10.5281/zenodo.8335231
 [arxiv-shield]: https://img.shields.io/badge/arXiv-2204.13474-b31b1b.svg?style=for-the-badge
 [arxiv-url]: https://arxiv.org/abs/2309.05778
-[license-shield]: https://img.shields.io/github/license/Jonas-Nicodemus/ph-energy-matching.svg?style=for-the-badge
-[license-url]: https://github.com/Jonas-Nicodemus/ph-energy-matching/blob/main/LICENSE
-[project-url]:https://github.com/Jonas-Nicodemus/ph-energy-matching/
+[license-shield]: https://img.shields.io/github/license/Jonas-Nicodemus/energy-matching.svg?style=for-the-badge
+[license-url]: https://github.com/Jonas-Nicodemus/energy-matching/blob/main/LICENSE
+[project-url]:https://github.com/Jonas-Nicodemus/energy-matching/
 [docs-shield]:https://img.shields.io/badge/docs-online-blue.svg?style=for-the-badge
-[docs-url]:https://jonas-nicodemus.github.io/ph-energy-matching/
+[docs-url]:https://jonas-nicodemus.github.io/energy-matching/
