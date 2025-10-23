@@ -4,7 +4,7 @@
 [![MIT License][license-shield]][license-url]
 
 # [Energy matching in reduced passive and port-Hamiltonian systems][arxiv-url]
-This repository contains the code for the paper [Energy matching in reduced passive and port-Hamiltonian systems][arxiv-url].
+This repository contains the code for the paper [Energy matching in reduced passive and port-Hamiltonian systems][sicon-url].
 The goal is to obtain low-dimensional port-Hamiltonian (pH) models that effectively approximate both the input-output dynamics and the energy (Hamiltonian) of a full-order model (FOM).
 
 <!-- TABLE OF CONTENTS -->
@@ -25,11 +25,11 @@ The goal is to obtain low-dimensional port-Hamiltonian (pH) models that effectiv
 
 ## Citing
 If you use this project for academic work, please consider citing our
-[publication][arxiv-url]:
+[publication][sicon-url]:
 
     T. Holicki, J. Nicodemus, P. Schwerdtner, and B. Unger
     Energy matching in reduced passive and port-Hamiltonian systems
-    ArXiv e-print 2309.05778, 2023.
+    SIAM J. Control Optim. 63:2154–2176, 2025.
 
 ## Installation
 This code base is using the [Julia Language](https://julialang.org/) and
@@ -86,6 +86,8 @@ Project Link: [https://github.com/Jonas-Nicodemus/energy-matching][project-url]
 [arxiv-url]: https://arxiv.org/abs/2309.05778
 [license-shield]: https://img.shields.io/github/license/Jonas-Nicodemus/energy-matching.svg?style=for-the-badge
 [license-url]: https://github.com/Jonas-Nicodemus/energy-matching/blob/main/LICENSE
-[project-url]:https://github.com/Jonas-Nicodemus/energy-matching/
-[docs-shield]:https://img.shields.io/badge/docs-online-blue.svg?style=for-the-badge
-[docs-url]:https://jonas-nicodemus.github.io/energy-matching/
+[project-url]: https://github.com/Jonas-Nicodemus/energy-matching/
+[docs-shield]: https://img.shields.io/badge/docs-online-blue.svg?style=for-the-badge
+[docs-url]: https://jonas-nicodemus.github.io/energy-matching/
+[sicon-url]: https://doi.org/10.1137/23M1600931
+
