@@ -1,14 +1,14 @@
 # Energy matching in reduced passive and port-Hamiltonian systems
-This repository contains the code for the paper [Energy matching in reduced passive and port-Hamiltonian systems](https://arxiv.org/abs/2309.05778).
+This repository contains the code for the paper [Energy matching in reduced passive and port-Hamiltonian systems](https://doi.org/10.1137/23M1600931).
 The goal is to obtain low-dimensional port-Hamiltonian (pH) models that effectively approximate both the input-output dynamics and the energy (Hamiltonian) of a full-order model (FOM).
 
 ## Citing
 If you use this project for academic work, please consider citing our
-[publication](https://arxiv.org/abs/2309.05778):
+[publication](https://doi.org/10.1137/23M1600931):
 
     T. Holicki, J. Nicodemus, P. Schwerdtner, and B. Unger
     Energy matching in reduced passive and port-Hamiltonian systems
-    ArXiv e-print 2309.05778, 2023.
+    SIAM J. Control Optim., 63:2154–2176, 2025.
 
 ## Installation
 This code base is using the [Julia Language](https://julialang.org/) and
