@@ -29,7 +29,7 @@ If you use this project for academic work, please consider citing our
 
     T. Holicki, J. Nicodemus, P. Schwerdtner, and B. Unger
     Energy matching in reduced passive and port-Hamiltonian systems
-    SIAM J. Control Optim. 63:2154–2176, 2025.
+    SIAM J. Control Optim., 63:2154–2176, 2025.
 
 ## Installation
 This code base is using the [Julia Language](https://julialang.org/) and
