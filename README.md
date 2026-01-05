@@ -72,11 +72,11 @@ It performs the following steps:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Jonas Nicodemus - jonas.nicodemus@simtech.uni-stuttgart.de
+Jonas Nicodemus - jonas.nicodemus@icloud.com
 
-Tobias Holicki - tobias.holicki@imng.uni-stuttgart.de\
+Tobias Holicki - tobias.holicki@gmx.de\
 Paul Schwerdtner - paul.schwerdtner@nyu.edu\
-Benjamin Unger - benjamin.unger@simtech.uni-stuttgart.de
+Benjamin Unger - benjamin.unger@kit.edu
 
 Project Link: [https://github.com/Jonas-Nicodemus/energy-matching][project-url]
 
